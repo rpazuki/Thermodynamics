@@ -9,6 +9,59 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
 
+  <!-- Wiki metadata block: collapsible <details> panel -->
+  <style>
+    .wiki-meta {
+      margin: 0.5em 0 1.5em 0;
+      border: 1px solid #e0e0e0;
+      border-radius: 4px;
+      font-size: 0.85em;
+      color: #555;
+    }
+    .wiki-meta__toggle {
+      padding: 0.4em 0.75em;
+      cursor: pointer;
+      user-select: none;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 0.4em;
+      color: #888;
+      font-style: italic;
+    }
+    .wiki-meta__toggle::-webkit-details-marker { display: none; }
+    .wiki-meta__toggle::before {
+      content: "▸";
+      font-style: normal;
+      font-size: 0.8em;
+      transition: transform 0.15s;
+    }
+    details[open] .wiki-meta__toggle::before { content: "▾"; }
+    .wiki-meta__table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 0;
+      padding: 0 0.75em 0.5em 0.75em;
+    }
+    .wiki-meta__table th {
+      text-align: left;
+      font-weight: 600;
+      padding: 0.2em 0.75em 0.2em 0;
+      white-space: nowrap;
+      color: #666;
+      width: 6em;
+    }
+    .wiki-meta__table td { padding: 0.2em 0; }
+    .wiki-tag {
+      display: inline-block;
+      background: #f0f0f0;
+      border-radius: 3px;
+      padding: 0.05em 0.4em;
+      font-size: 0.9em;
+      margin: 0.1em;
+    }
+  </style>
+
   <!-- MathJax 3: renders $...$ (inline) and \[...\] / $$...$$ (display) -->
   <script>
     MathJax = {

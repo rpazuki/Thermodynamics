@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% if page.type or page.tags or page.created %}
+<details class="wiki-meta">
+  <summary class="wiki-meta__toggle">Page metadata</summary>
+  <table class="wiki-meta__table">
+    {% if page.type %}
+    <tr>
+      <th>Type</th>
+      <td>{{ page.type }}</td>
+    </tr>
+    {% endif %}
+    {% if page.tags %}
+    <tr>
+      <th>Tags</th>
+      <td>{% for tag in page.tags %}<span class="wiki-tag">{{ tag }}</span>{% unless forloop.last %} {% endunless %}{% endfor %}</td>
+    </tr>
+    {% endif %}
+    {% if page.created %}
+    <tr>
+      <th>Created</th>
+      <td>{{ page.created }}</td>
+    </tr>
+    {% endif %}
+    {% if page.updated %}
+    <tr>
+      <th>Updated</th>
+      <td>{{ page.updated }}</td>
+    </tr>
+    {% endif %}
+    {% if page.sources %}
+    <tr>
+      <th>Sources</th>
+      <td>{{ page.sources }}</td>
+    </tr>
+    {% endif %}
+  </table>
+</details>
+{% endif %}
+
+{{ content }}

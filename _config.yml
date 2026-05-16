@@ -19,7 +19,7 @@ defaults:
       path: "wiki"
       type: "pages"
     values:
-      layout: "default"
+      layout: "wiki"
 
 # Exclude non-site files from Jekyll build
 exclude:
