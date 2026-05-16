@@ -3,6 +3,11 @@ theme: minima
 title: "Thermodynamics Research Wiki"
 description: "A personal research wiki covering the founding texts of classical and statistical thermodynamics."
 
+# Only show the homepage in the top navigation bar.
+# Without this, minima lists every single Jekyll page in the header.
+header_pages:
+  - index.md
+
 markdown: kramdown
 kramdown:
   input: GFM
@@ -11,10 +16,16 @@ kramdown:
   # which MathJax 3 does not process. MathJax 3 is loaded in _includes/head.html
   # and handles $...$ and \[...\] directly in the rendered HTML.
 
-# Apply the 'default' layout to all pages under wiki/ so that minima's
-# page.html layout does not inject a duplicate <h1> from the frontmatter title.
-# (All wiki pages already open with their own # heading in the body.)
+# Layout defaults:
+#   - root index.md uses 'default' (no auto-injected <h1> from frontmatter title)
+#   - all pages under wiki/ use the custom 'wiki' layout (collapsible metadata panel,
+#     no auto-injected <h1>)
 defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
   - scope:
       path: "wiki"
       type: "pages"
