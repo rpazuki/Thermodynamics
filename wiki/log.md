@@ -85,3 +85,13 @@ Source pages created (all in wiki/sources/):
 - devriendt-basics-of-thermodynamics.md — Devriendt, pedagogical lecture notes covering all four laws, entropy, potentials, statistical mechanics
 
 Index updated: wiki/index.md — Sources section restructured into four subsections (primary sources, axiomatic/foundational, history/philosophy, textbooks); 12 new entries added.
+
+---
+
+## [2026-05-16] toc | Table of contents regenerated
+
+- Added 12 new source pages to ToC
+- New parts created: Part III — Axiomatic Foundations (§8 Carathéodory to Lieb–Yngvason); Part IV — History and Philosophy of the Second Law (§9 Statistical Interpretation and Its Controversies; §10 Philosophical and Cultural Reception)
+- Existing parts renumbered: Introductory Resources → Part V; Sources → Part VI (now with four subsections: primary, axiomatic, history/philosophy, pedagogical); Analyses → Part VII
+- Clausius 1865 source page added inline to §3 (Second Law)
+- Footer updated: 41 intro pages · 15 source pages · 3 analyses
