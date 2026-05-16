@@ -66,3 +66,7 @@ along trajectories, meaning that the index of probability of any moving system d
 Chapter I establishes that the framework of [[ensemble]] averages is not merely a calculational convenience but is dictated by the structure of Hamiltonian mechanics itself. Liouville's theorem ensures that phase-space volume is an invariant measure, which makes probability in phase space a well-defined and consistent concept. All subsequent chapters build on this: the canonical and microcanonical distributions (Chapters IV and X) are specific choices of the function $D = D(\varepsilon)$, justified by their special properties.
 
 The extension-in-phase has the dimensions of $(action)^n$, a fact that foreshadows the later quantum-mechanical insight (Planck's constant $h$ as the natural unit of phase-space volume, though Gibbs does not reach this conclusion).
+
+---
+
+*[↑ Table of Contents](toc.md) · [Next: Ch. II — Theory of Errors →](ch-02-conservation-applied-to-theory-of-errors.md)*

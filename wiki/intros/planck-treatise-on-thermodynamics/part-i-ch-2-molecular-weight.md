@@ -96,3 +96,7 @@ A deeper definition of chemical homogeneity (and hence of molecular weight) that
 - The concept extends immediately to gas mixtures via apparent molecular weight.
 - For real gases and condensable vapours, molecular weight is operationally ambiguous; the book returns to this only in §237 via the entropy concept.
 - Semipermeable membranes (§42) are identified as one of the few tools that can distinguish chemically different components of a mixture — a hint at their crucial role in Part IV.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part I Ch.I — Temperature](part-i-ch-1-temperature.md) · [Next: Part I Ch.III — Quantity of Heat →](part-i-ch-3-quantity-of-heat.md)*

@@ -146,3 +146,7 @@ These limitations are fully understood by Planck, who acknowledges them in the p
 
 - The book's catalogue of Planck's own papers (Appendix) is not analysed here; these papers contain the historical development of the ideas and would provide additional context for the choices made in the treatise.
 - The treatment of real gases beyond van der Waals and Clausius equations is left largely as a measurement problem; a modern analysis would connect this to the virial expansion and intermolecular potential theory.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part IV Ch.V — Dilute Solutions](part-iv-ch-5-dilute-solutions.md)*

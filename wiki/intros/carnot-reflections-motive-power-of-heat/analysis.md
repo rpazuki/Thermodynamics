@@ -69,3 +69,7 @@ The [[reversible-cycle]] is not primarily a practical design; it is a conceptual
 ## Why the *Réflexions* matters today
 
 Two centuries after publication, Carnot's central theorem remains a hard limit that no technology can circumvent. Every heat-engine — internal combustion, steam turbine, thermoelectric generator, heat pump — operates below the Carnot efficiency for its operating temperatures. The thermal efficiency of the best modern combined-cycle gas turbines (~63%) still falls below the Carnot limit for typical temperatures ($T_H \approx 1600$ K, $T_C \approx 300$ K, giving $\eta_{Carnot} \approx 81\%$). The irreducible gap is governed by irreversibilities that Carnot's framework identifies. Understanding which efficiency losses are fundamental and which are engineering-reducible remains the core of applied thermodynamics.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Appendices B and C — Footnotes and Editorial Notes](07-appendices-b-and-c-footnotes-and-editorial-notes.md)*

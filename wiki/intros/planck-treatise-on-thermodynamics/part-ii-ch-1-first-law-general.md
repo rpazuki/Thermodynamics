@@ -122,3 +122,7 @@ Note Planck's deliberate notation choice: he does *not* write $dQ$ (which would 
 | Mechanical equivalent | $1\,\mathrm{cal(lab)} = 4.19 \times 10^7\,\mathrm{erg}$ |
 
 The First Law establishes **energy as a state function** and **heat as a process quantity**. With the characteristic equation from Part I, Chapter I, all thermodynamic properties of a substance can in principle be computed from $p = f(v,\theta)$ plus the energy function $U$.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part I Ch.III — Quantity of Heat](part-i-ch-3-quantity-of-heat.md) · [Next: Part II Ch.II — First Law (Homogeneous) →](part-ii-ch-2-first-law-homogeneous.md)*

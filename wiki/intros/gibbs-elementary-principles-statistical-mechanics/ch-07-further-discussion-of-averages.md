@@ -48,3 +48,7 @@ Higher moments and mixed moments (e.g., correlations between energy and external
 ## Significance
 
 Chapter VII is the chapter where the equivalence between Gibbs's statistical mechanics and Clausius's classical thermodynamics is made explicit and mathematically rigorous. The identification of Clausius's entropy with $-\bar{\eta}$ (the negative average index of probability) is stated precisely. More importantly, the fluctuation calculation explains *why* this identification works: for large systems, every system in the ensemble is essentially at the average value, so ensemble averages equal thermodynamic quantities without qualification.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. VI — Extension in Configuration and Velocity](ch-06-extension-in-configuration-and-velocity.md) · [Next: Ch. VIII — Important Functions of the Energies →](ch-08-important-functions-of-energies.md)*

@@ -44,3 +44,7 @@ The conclusion mirrors Carnot's: the maximum efficiency of the cycle depends onl
 ## Significance
 
 Chapter XIII is where statistical mechanics becomes thermodynamics. The abstract ensemble machinery is shown to reproduce all the central thermodynamic phenomena: entropy increase, heat flow direction, and Carnot efficiency — all emerging from Liouville's theorem and the canonical distribution. The distinction between mechanical action (change of external coordinates) and thermal action (ensemble-ensemble interaction) maps precisely onto the thermodynamic distinction between work and heat.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. XII — Motion Through Long Periods](ch-12-motion-through-long-periods-of-time.md) · [Next: Ch. XIV — Thermodynamic Analogies →](ch-14-discussion-of-thermodynamic-analogies.md)*

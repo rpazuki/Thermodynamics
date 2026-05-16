@@ -76,3 +76,7 @@ This is the [[carnot-efficiency]] theorem in its pre-absolute-temperature form. 
 The motive power of heat is "like a waterfall": it depends on the "height of the fall" (temperature difference) and the "quantity of the liquid" (quantity of caloric). For a waterfall, power is exactly proportional to height. For heat, Carnot suspects (but cannot prove with available data) that power is *not* simply proportional to temperature difference — the function $\mu(t)$ relating motive power to temperature requires experimental determination.
 
 This is the point where the theoretical framework reaches its limit without empirical input. Carnot has established the *existence* and *universality* of a maximum efficiency function of temperature alone; determining its functional form is left to experiment. Lord Kelvin's paper later determines $\mu(t)$ from Regnault's steam data and shows it decreases with increasing temperature — more work per unit of heat at low temperatures than at high.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Introduction and the Motive Power Question](01-introduction-and-the-motive-power-question.md) · [Next: Gas Theory, Specific Heats, and Heat of Expansion →](03-gas-theory-specific-heats-and-heat-of-expansion.md)*

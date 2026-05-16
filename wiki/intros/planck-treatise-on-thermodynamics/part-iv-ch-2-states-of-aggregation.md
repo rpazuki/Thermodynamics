@@ -114,3 +114,7 @@ Below the triple-point pressure, liquid cannot exist at equilibrium — only sol
 | Triple point | $\theta, p$ uniquely fixed | No freedom — single point |
 
 Chapter II of Part IV is the thermodynamic core of phase equilibrium theory. Its results are universal — derived from the two laws alone — and apply equally to water, carbon dioxide, or any other pure substance.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part IV Ch.I — Homogeneous Systems](part-iv-ch-1-homogeneous-systems.md) · [Next: Part IV Ch.III — Independent Constituents →](part-iv-ch-3-independent-constituents.md)*

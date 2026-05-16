@@ -52,3 +52,7 @@ For large $n$, the density-in-energy $e^{(\psi - \varepsilon)/\Theta + \phi}$ be
 ## Significance
 
 Chapter IX is the bridge between the canonical ensemble (controlled by $\Theta$) and the microcanonical ensemble (controlled by $\varepsilon$). It proves they are equivalent for large $n$ and provides the precise sense in which the density-of-states function $\phi$ encodes the microcanonical entropy and temperature. The equation $d\phi/d\varepsilon = 1/\Theta$ at the most probable energy is the statistical-mechanical derivation of $\partial S / \partial E = 1/T$ from first principles.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. VIII — Important Functions of the Energies](ch-08-important-functions-of-energies.md) · [Next: Ch. X — Microcanonical Distribution →](ch-10-microcanonical-distribution.md)*

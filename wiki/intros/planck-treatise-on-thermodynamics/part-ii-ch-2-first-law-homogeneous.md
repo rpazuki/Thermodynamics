@@ -113,3 +113,7 @@ All of these require the Second Law.
 | Carnot efficiency (perfect gas) | $\eta = 1 - \theta_1/\theta_2$ |
 | Carnot heat ratios | $Q_1 : Q_2 = -\theta_1 : \theta_2$ |
 | First Law (infinitesimal) | $Q = dU + p\,dV$ |
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part II Ch.I — First Law (General)](part-ii-ch-1-first-law-general.md) · [Next: Part II Ch.III — Thermochemistry →](part-ii-ch-3-first-law-non-homogeneous.md)*

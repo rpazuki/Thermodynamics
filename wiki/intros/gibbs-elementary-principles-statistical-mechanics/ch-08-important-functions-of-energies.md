@@ -62,3 +62,7 @@ For large $n$, $\phi_0$ (the value of $\phi$ at the most probable energy) is app
 ## Significance
 
 The function $\phi = \log(dV/d\varepsilon)$ is Gibbs's version of the microcanonical entropy: $S_{\text{micro}} \propto \phi(\varepsilon)$. The equality $d\phi/d\varepsilon = 1/\Theta$ (proved in Chapter IX) says that the derivative of the microcanonical entropy with respect to energy equals the inverse temperature — this is the fundamental thermodynamic relation $\partial S/\partial E = 1/T$ derived from first principles. Chapter VIII provides the technical infrastructure for this central result.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. VII — Further Discussion of Averages](ch-07-further-discussion-of-averages.md) · [Next: Ch. IX — The Function φ →](ch-09-function-phi-and-canonical-distribution.md)*

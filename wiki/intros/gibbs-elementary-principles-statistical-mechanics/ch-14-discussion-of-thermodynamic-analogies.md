@@ -64,3 +64,7 @@ Gibbs acknowledges two serious failures of the classical framework:
 ## Significance
 
 Chapter XIV provides the most explicit and careful statement anywhere in the book of what statistical mechanics is and what it accomplishes. It maps the mathematical structure of Chapters IV–XIII onto the empirical framework of classical thermodynamics, locates the exact and approximate regimes of the correspondence, and honestly demarcates the boundaries of the classical theory. This chapter is the logical summary of the book's central argument.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. XIII — Effect of Various Processes](ch-13-effect-of-various-processes-on-ensemble.md) · [Next: Ch. XV — Systems Composed of Molecules →](ch-15-systems-composed-of-molecules.md)*

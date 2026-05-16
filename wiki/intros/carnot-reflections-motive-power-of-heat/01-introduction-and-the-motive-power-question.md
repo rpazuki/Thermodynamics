@@ -52,3 +52,7 @@ He notes this cannot be answered without a general principle, and promises to de
 Carnot's framing accomplishes something philosophically rare: it separates *what* is produced (motive power, proportional to weight times height) from *how* it is produced (the specific machine, substance, pressure). This abstraction — asking for the maximum over all possible implementations — is structurally identical to variational reasoning in mechanics. It is what makes the *Réflexions* a work of theoretical physics rather than engineering.
 
 The waterfall analogy he will develop in the next section captures this intuition perfectly: just as the work done by a waterfall depends on the height and flow-rate, not on the design of the wheel, the motive power from heat depends on the temperature difference and the quantity of heat, not on the design of the engine. This analogy will guide the entire argument.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Editorial Preface and Biography](00-editorial-preface-and-biography.md) · [Next: The Carnot Cycle and Universality Proof →](02-the-carnot-cycle-and-universality-proof.md)*

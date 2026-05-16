@@ -58,3 +58,7 @@ where $D$ is the matrix of second derivatives of $\psi_{\text{gen}}$ with respec
 ## Significance
 
 Chapter XV establishes the grand canonical ensemble, which became the standard framework for all open systems in statistical mechanics: ideal quantum gases, chemical reaction equilibria, phase transitions with variable composition, and the theory of solutions. The chemical potential $\mu_i = d\psi_{\text{gen}}/d\nu_i$ defined here is exactly the quantity that appears in Planck's treatment of chemical equilibrium (see [[planck-treatise-on-thermodynamics]], Part IV). The resolution of the Gibbs paradox through generic phases anticipates the need for quantum indistinguishability and is Gibbs's clearest statement that physical entropy requires treating identical particles as truly interchangeable.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. XIV — Thermodynamic Analogies](ch-14-discussion-of-thermodynamic-analogies.md) · [Next: Analysis — Four-Layer Structure →](analysis.md)*

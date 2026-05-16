@@ -118,3 +118,7 @@ The best engines of 1849 achieved about 57% of the Carnot limit. This framing �
 ## Significance
 
 Kelvin's paper is the bridge between Carnot's qualitative 1824 framework and the quantitative science of thermodynamics. It introduces the notation $\mu$ (Carnot's coefficient), shows how to compute it empirically, defines the concept of thermodynamic efficiency as a fraction of the Carnot limit, and frames the comparison of steam vs. air engines in terms of the fall of caloric utilised. Within two years, Kelvin and Clausius would use this framework to formulate the [[second-law-of-thermodynamics]] in its modern form and define [[entropy]].
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Efficiency, Numerical Estimates, and Practical Engines](04-efficiency-numerical-estimates-and-practical-engines.md) · [Next: Appendix A — Carnot's Unpublished Writings →](06-appendix-a-unpublished-writings.md)*

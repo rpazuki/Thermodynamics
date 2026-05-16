@@ -64,3 +64,7 @@ Two systems $A$ and $B$ at the same modulus $\Theta$ are in statistical equilibr
 ## Relation to [[planck-treatise-on-thermodynamics]]
 
 Planck's treatise (1897) defines temperature operationally and derives entropy as a state function from the two laws. Gibbs's Chapter IV derives the differential relation containing both temperature and entropy from pure mechanics, without any empirical input — showing that these thermodynamic quantities are natural features of the probability distribution over microstates.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. III — Integration of Equations of Motion](ch-03-conservation-applied-to-integration-of-equations-of-motion.md) · [Next: Ch. V — Average Values →](ch-05-average-values-canonical-ensemble.md)*

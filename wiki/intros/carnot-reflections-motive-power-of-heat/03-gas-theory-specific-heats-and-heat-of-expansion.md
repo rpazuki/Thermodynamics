@@ -73,3 +73,7 @@ Carnot also deduces that $c_v$ increases as the gas expands (decreases in densit
 ## Significance
 
 This section of the *Réflexions* demonstrates that the cycle theorem is not merely a statement about engines: it is a machine for generating thermodynamic identities among material properties. Carnot extracts from a single thought-experiment constraints on $c_p$, $c_v$, their difference, their variation with volume, and the heat of expansion. Many of these results were later re-derived by Clausius, who was unaware of Carnot's priority. The approach anticipates [[Maxwell relations]] and the method of deriving material properties from fundamental thermodynamic potentials.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: The Carnot Cycle and Universality Proof](02-the-carnot-cycle-and-universality-proof.md) · [Next: Efficiency, Numerical Estimates, and Practical Engines →](04-efficiency-numerical-estimates-and-practical-engines.md)*

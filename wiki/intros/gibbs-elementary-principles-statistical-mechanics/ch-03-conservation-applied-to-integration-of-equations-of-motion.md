@@ -36,3 +36,7 @@ which is guaranteed to be an exact differential by the conservation law, and is 
 The practical utility of this chapter is that it turns the conservation of phase-space volume from a mathematical identity into an algorithmic tool. Knowing the Liouville invariant tells you that certain combinations of the remaining unknowns must be exact differentials — which dramatically reduces the work of integration.
 
 Gibbs acknowledges that the result is closely related to Jacobi's principle of the last multiplier, and that Boltzmann had recognised its connection to the behaviour of multi-atomic gas molecules. The chapter is largely self-contained; readers primarily interested in thermodynamic applications can proceed directly to Chapter IV without loss of continuity. Its importance lies in establishing that the [[ensemble]] framework has deep roots in classical analytic mechanics, not just statistical reasoning.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. II — Theory of Errors](ch-02-conservation-applied-to-theory-of-errors.md) · [Next: Ch. IV — The Canonical Distribution →](ch-04-canonical-distribution.md)*

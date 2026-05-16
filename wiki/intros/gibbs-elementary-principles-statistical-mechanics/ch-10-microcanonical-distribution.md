@@ -56,3 +56,7 @@ Gibbs notes that the microcanonical distribution fails (becomes ill-defined) at 
 ## Significance
 
 Chapter X completes the pair of fundamental ensembles. The microcanonical ensemble represents an isolated system with fixed energy; the canonical ensemble represents a system in thermal contact with a reservoir at temperature $\Theta$. Both give the same thermodynamics in the large-$n$ limit, but through different mathematical paths. The identification $S = \log V$ (microcanonical) versus $S = -\bar{\eta}$ (canonical) anticipates the famous Boltzmann formula $S = k_B \ln W$ — where $W$ is the number of accessible microstates — though Gibbs's $V$ is a continuous phase volume rather than a discrete count.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. IX — The Function φ](ch-09-function-phi-and-canonical-distribution.md) · [Next: Ch. XI — Maximum and Minimum Properties →](ch-11-maximum-minimum-properties.md)*

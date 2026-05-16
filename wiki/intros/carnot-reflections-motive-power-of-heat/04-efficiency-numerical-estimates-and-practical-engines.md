@@ -87,3 +87,7 @@ He argues the essential advantage of high-pressure engines lies not in the press
 ## The closing paragraph: practical wisdom
 
 Carnot ends the main text with a famous passage on engineering judgment — the same paragraph quoted by Thurston in the editor's preface. It says that full utilisation of combustible is rarely the primary objective; safety, durability, size, and cost often take precedence. The art of the engineer is to balance these considerations correctly, a statement as valid today as in 1824.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Gas Theory, Specific Heats, and Heat of Expansion](03-gas-theory-specific-heats-and-heat-of-expansion.md) · [Next: Kelvin's Account of Carnot's Theory →](05-kelvin-account-of-carnots-theory.md)*

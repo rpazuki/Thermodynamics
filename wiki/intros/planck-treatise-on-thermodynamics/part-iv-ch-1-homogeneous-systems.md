@@ -96,3 +96,7 @@ The stability conditions provide the physical meaning of the van der Waals and C
 | Mechanical stability | $(\partial p/\partial v)_\theta < 0$ | Required for stable phase |
 
 Chapter I of Part IV demonstrates how the entropy relations, once derived abstractly, translate into powerful quantitative constraints on measurable properties of any substance. The same framework extends to multi-phase and multi-component systems in the subsequent chapters.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part III Ch.III — Second Law Deductions](part-iii-ch-3-second-law-deductions.md) · [Next: Part IV Ch.II — States of Aggregation →](part-iv-ch-2-states-of-aggregation.md)*

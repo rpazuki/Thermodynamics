@@ -44,3 +44,7 @@ with equality if and only if the phases of the two parts are statistically indep
 ## Significance
 
 Chapter XI provides the rigorous foundation for the maximum-entropy interpretation of equilibrium statistical mechanics: the canonical distribution is not merely *a* distribution consistent with a given temperature, it is the *unique* distribution that contains no more information than is required by the constraint on mean energy. This is the deepest justification for using the Boltzmann distribution, and it anticipates the information-theoretic viewpoint (later developed by Jaynes) in which statistical mechanics is the application of maximum-entropy inference to physical systems.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. X — Microcanonical Distribution](ch-10-microcanonical-distribution.md) · [Next: Ch. XII — Motion Through Long Periods →](ch-12-motion-through-long-periods-of-time.md)*

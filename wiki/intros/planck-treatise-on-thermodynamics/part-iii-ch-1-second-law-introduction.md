@@ -87,3 +87,7 @@ This chapter is notable for its epistemological clarity. Planck:
 4. Frames reversibility as an ideal limiting case of real processes, not an exact description.
 
 The stage is now set for Chapter II, where Planck formally proves the Second Law (in the form of the entropy theorem) from the empirical proposition that **perpetual motion of the second kind** — a machine that converts heat from a single reservoir entirely into work in a cyclic process — is impossible.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part II Ch.III — Thermochemistry](part-ii-ch-3-first-law-non-homogeneous.md) · [Next: Part III Ch.II — Second Law Proof →](part-iii-ch-2-second-law-proof.md)*

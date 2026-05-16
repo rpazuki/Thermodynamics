@@ -114,3 +114,7 @@ $$\sum_i \nu_i \mu_i = 0 \tag{equilibrium constant}$$
 | Euler property | $\Psi = \sum_i M_i (\partial\Psi/\partial M_i)$ |
 
 Chapter III provides the theoretical skeleton for all of chemical equilibrium and phase thermodynamics. The phase rule is one of the most powerful results of classical thermodynamics, derived here in full generality from the two laws and requiring no molecular assumptions whatsoever.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part IV Ch.II — States of Aggregation](part-iv-ch-2-states-of-aggregation.md) · [Next: Part IV Ch.IV — Gaseous Systems →](part-iv-ch-4-gaseous-system.md)*

@@ -130,3 +130,7 @@ The same logic applies tentatively to the liquid–solid transition (§31): Plan
 ## Conceptual Significance
 
 Chapter I accomplishes two things simultaneously: it grounds thermodynamics in operational measurement (the thermometer), and it establishes the mathematical language (characteristic equations, partial derivatives, isothermal/isobaric/isochoric changes) that will be applied throughout. The treatment of the critical point and the continuity between phases is especially forward-looking. By refusing to explain *why* the gas laws hold in terms of molecules, Planck keeps the discussion general — the same equations will later appear as limits of more general results derived from the two laws.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Preface and Introduction](00-preface-and-introduction.md) · [Next: Part I Ch.II — Molecular Weight →](part-i-ch-2-molecular-weight.md)*

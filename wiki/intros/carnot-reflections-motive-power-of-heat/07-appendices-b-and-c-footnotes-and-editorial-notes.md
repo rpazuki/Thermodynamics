@@ -54,3 +54,7 @@ Thurston's update frames the 1897 state of the art and points readers to Rankine
 ## Significance of the Appendices
 
 Together the appendices show that the *Réflexions* was not a finished treatise but the visible tip of a much larger research programme. The footnotes indicate Carnot's deep familiarity with contemporary experimental literature; the editorial update shows how rapidly the practical realisation of his principles advanced in the seven decades after publication. Read together, they form a compact history of heat-engine science from 1824 to 1897, with Carnot's theory as the organising framework throughout.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Appendix A — Carnot's Unpublished Writings](06-appendix-a-unpublished-writings.md) · [Next: Analysis — Logical Architecture of the Réflexions →](analysis.md)*

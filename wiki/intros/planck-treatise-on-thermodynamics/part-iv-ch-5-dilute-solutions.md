@@ -121,3 +121,7 @@ where $s$ is the molar solubility and $q_{\text{sol}}$ is the molar heat of diss
 | Solubility | $d\ln s/d\theta = q_{\text{sol}}/(R\theta^2)$ | Van't Hoff analogy |
 
 Chapter V completes the book's programme by showing that the dilute solution is the condensed-matter analogue of the perfect gas — the same entropy of mixing drives all colligative phenomena, and the two laws of thermodynamics, applied to this entropy expression, reproduce all the key results of physical chemistry of solutions.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part IV Ch.IV — Gaseous Systems](part-iv-ch-4-gaseous-system.md) · [Next: Analysis — Conceptual Architecture →](analysis.md)*

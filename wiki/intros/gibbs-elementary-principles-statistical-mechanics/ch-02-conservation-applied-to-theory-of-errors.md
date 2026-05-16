@@ -50,3 +50,7 @@ where $f'$ is the discriminant of $F'$, shows that this discriminant is also a c
 This chapter demonstrates that the shape of an uncertainty ellipsoid in phase space changes over time (it can shear and distort), but its $2n$-dimensional volume is preserved. The maximum probability density $C$ cannot decrease or increase: whatever we do not know at the initial moment, we cannot know more (or less) later. This is a mechanical expression of what thermodynamics would call the impossibility of decreasing entropy by waiting — though Gibbs does not yet use the word entropy here.
 
 The chapter is largely a pedagogical demonstration that the theory-of-errors treatment and the ensemble framework are mutually consistent, preparing the reader for the more general canonical distribution introduced in Chapter IV.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. I — General Notions](ch-01-general-notions-conservation-extension-in-phase.md) · [Next: Ch. III — Integration of Equations of Motion →](ch-03-conservation-applied-to-integration-of-equations-of-motion.md)*

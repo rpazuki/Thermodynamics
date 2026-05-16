@@ -50,3 +50,7 @@ These show that all thermodynamic averages (energy, forces) can be derived from 
 ## Significance
 
 Chapter V demonstrates that the modulus $\Theta$ controls the energy scale of the system. When $\Theta$ is small, the ensemble is concentrated near low-energy configurations; as $\Theta$ increases, higher-energy states become accessible. The identification $\Theta = k_B T$ (Boltzmann's constant times temperature) is the bridge to macroscopic thermodynamics, a connection made fully explicit in Chapter XIV.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. IV — The Canonical Distribution](ch-04-canonical-distribution.md) · [Next: Ch. VI — Extension in Configuration and Velocity →](ch-06-extension-in-configuration-and-velocity.md)*

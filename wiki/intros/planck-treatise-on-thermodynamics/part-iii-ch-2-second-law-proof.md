@@ -144,3 +144,7 @@ Generalization to any substance via reversible Carnot analysis (§§128-136)
 ## Conceptual Significance
 
 Planck's proof is one of the most rigorous presentations of the Second Law in classical thermodynamics literature. The essential logical move is to tie the general entropy theorem to *one specific irreversible process* (free gas expansion, whose irreversibility follows from the axiom), prove the entropy theorem for that process, and then show by a general argument that the entropy of any gas system cannot decrease. The extension to non-gas substances uses the established perfect-gas result plus the consistency of thermodynamic temperature across substances (an independent proof using the Carnot cycle). No molecular hypotheses are needed anywhere.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part III Ch.I — Second Law Introduction](part-iii-ch-1-second-law-introduction.md) · [Next: Part III Ch.III — Second Law Deductions →](part-iii-ch-3-second-law-deductions.md)*

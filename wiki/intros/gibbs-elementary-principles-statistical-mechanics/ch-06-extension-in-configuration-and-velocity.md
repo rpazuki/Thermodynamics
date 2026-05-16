@@ -49,3 +49,7 @@ An extension-in-velocity has dimensions of $(\text{energy})^{n/2}$; an extension
 ## Significance
 
 The separation of phase space into configuration and velocity spaces has two practical uses: (1) it allows the Gaussian velocity integrals of Chapter V to be separated cleanly from the configurational averages, and (2) it introduces the configurational partition function $e^{-\psi_q/\Theta}$, which is more directly connected to potential-energy landscapes (such as the Boltzmann factor for potential-energy distributions). These notions underlie much of modern computational statistical mechanics, including Monte Carlo sampling in configuration space.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. V — Average Values](ch-05-average-values-canonical-ensemble.md) · [Next: Ch. VII — Further Discussion of Averages →](ch-07-further-discussion-of-averages.md)*

@@ -35,3 +35,7 @@ For the canonical ensemble, any finite sub-ensemble will return to an arbitrary 
 ## Significance
 
 Chapter XII is Gibbs's most careful engagement with the foundations of the second law. He refuses to assert a derivation of irreversibility from reversible mechanics (a refusal that was philosophically honest but ultimately prescient: no classical derivation exists without additional assumptions). Instead he identifies the coarse-grained/fine-grained distinction as the conceptual key — an insight that was not fully formalised until the development of ergodic theory and information theory in the mid-twentieth century. Boltzmann faced similar foundational difficulties; Gibbs's ensemble approach sidesteps some of them by working with populations of systems rather than individual trajectories.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. XI — Maximum and Minimum Properties](ch-11-maximum-minimum-properties.md) · [Next: Ch. XIII — Effect of Various Processes →](ch-13-effect-of-various-processes-on-ensemble.md)*

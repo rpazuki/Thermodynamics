@@ -113,3 +113,7 @@ The degree of dissociation increases with temperature (if the dissociation is en
 | Van't Hoff equation | $d\ln K/d\theta = \Delta H/(R\theta^2)$ |
 
 Chapter IV is the high point of Planck's treatment of chemical equilibrium. By computing $\Psi$ explicitly for perfect gas mixtures, it makes the abstract equilibrium condition $\delta\Psi = 0$ fully quantitative and directly comparable with experiment.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part IV Ch.III — Independent Constituents](part-iv-ch-3-independent-constituents.md) · [Next: Part IV Ch.V — Dilute Solutions →](part-iv-ch-5-dilute-solutions.md)*

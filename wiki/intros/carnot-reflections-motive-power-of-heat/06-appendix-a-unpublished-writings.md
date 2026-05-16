@@ -67,3 +67,7 @@ These are precisely the experiments Joule performed in Manchester in the 1840s. 
 ## Significance
 
 Appendix A transforms the *Réflexions* from a historically important but flawed document (built on the caloric theory) into something far more remarkable: evidence that Carnot was, by 1832, in simultaneous possession of the embryonic forms of both the First and Second Laws of Thermodynamics. His public work gives the Second Law (maximum efficiency of heat-engines); his private notes give the First (conservation of energy including heat). The tragedy is that neither was known to the world until decades later, when Kelvin and Clausius had to reconstruct them independently.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Kelvin's Account of Carnot's Theory](05-kelvin-account-of-carnots-theory.md) · [Next: Appendices B and C — Footnotes and Editorial Notes →](07-appendices-b-and-c-footnotes-and-editorial-notes.md)*

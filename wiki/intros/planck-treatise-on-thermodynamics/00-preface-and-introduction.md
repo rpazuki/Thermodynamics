@@ -62,3 +62,7 @@ The preface is essential for understanding Planck's logical structure. Every tim
 2. The impossibility of perpetual motion of the second kind (Second Law).
 
 No molecular dynamics, statistical mechanics, or microscopic model is ever invoked. This makes the book simultaneously more mathematically rigorous and more philosophically cautious than contemporaneous treatments.
+
+---
+
+*[↑ Table of Contents](toc.md) · [Next: Part I Ch.I — Temperature →](part-i-ch-1-temperature.md)*

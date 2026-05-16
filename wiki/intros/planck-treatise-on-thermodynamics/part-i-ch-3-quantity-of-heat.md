@@ -110,3 +110,7 @@ This sets up the thermochemistry of Part II, Chapter III.
 | Heat effect of reaction | $Q > 0$ (endothermal) or $Q < 0$ (exothermal) |
 
 The key lesson of the chapter is the conceptual separation between **temperature** (a state quantity, intensive), **quantity of heat** (a process quantity), and **energy** (a state quantity, extensive, to be introduced in Part II).
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part I Ch.II — Molecular Weight](part-i-ch-2-molecular-weight.md) · [Next: Part II Ch.I — First Law (General) →](part-ii-ch-1-first-law-general.md)*

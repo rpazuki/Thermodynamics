@@ -129,3 +129,7 @@ This relation is fundamental to the thermodynamics of chemical equilibrium (van'
 | Maximum work | $W'_{\max} = -(F_2 - F_1)$ | At constant $T$ |
 
 The chapter transforms the abstract entropy principle into concrete, computable criteria for equilibrium and spontaneous change. These criteria — especially $\delta\Psi = 0$ — will drive the entire analysis of Part IV.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part III Ch.II — Second Law Proof](part-iii-ch-2-second-law-proof.md) · [Next: Part IV Ch.I — Homogeneous Systems →](part-iv-ch-1-homogeneous-systems.md)*

@@ -103,3 +103,7 @@ High — the book is mathematically rigorous and self-contained.
 - The equipartition anomaly (5 vs. 6 degrees of freedom in diatomic gases) is acknowledged but unexplained; requires quantum mechanics.
 - Quantum statistics (Bose–Einstein or Fermi–Dirac) are absent; developed after 1902.
 - The treatment of irreversibility is incomplete by Gibbs's own admission.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Ch. XV — Systems Composed of Molecules](ch-15-systems-composed-of-molecules.md)*

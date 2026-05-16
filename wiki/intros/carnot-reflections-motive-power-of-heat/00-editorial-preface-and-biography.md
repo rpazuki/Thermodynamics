@@ -49,3 +49,7 @@ Hyppolyte's portrait reveals a man of intense privacy, wide curiosity (gymnastic
 ## Significance for the history of thermodynamics
 
 The biographical section establishes two crucial facts. First, Carnot had essentially anticipated the First Law — the conservation of energy as it applies to heat — at least eight years before Mayer and Joule. Second, the premature death at 36 and the destruction of most papers robbed science of what might have been a complete thermodynamics a generation earlier. The *Réflexions* itself survived only in the hundred-odd copies of the original printing, rescued by Clapeyron and then by Kelvin.
+
+---
+
+*[↑ Table of Contents](toc.md) · [Next: Introduction and the Motive Power Question →](01-introduction-and-the-motive-power-question.md)*

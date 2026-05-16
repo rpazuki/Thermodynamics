@@ -110,3 +110,7 @@ This is **Kirchhoff's equation**: $dQ/d\theta = C_{\text{products}} - C_{\text{r
 | Kirchhoff's equation | $dQ/d\theta = C_{\text{products}} - C_{\text{reactants}}$ |
 
 The essential message of this chapter is that the First Law provides a **conservation law for the heat function at constant pressure**, enabling a complete algebraic treatment of thermochemistry by path-independence arguments. The Second Law will later add a *direction* to these heat effects — telling us which reactions are spontaneous — but the First Law already constrains the quantitative bookkeeping rigorously.
+
+---
+
+*[↑ Table of Contents](toc.md) · [← Back: Part II Ch.II — First Law (Homogeneous)](part-ii-ch-2-first-law-homogeneous.md) · [Next: Part III Ch.I — Second Law Introduction →](part-iii-ch-1-second-law-introduction.md)*
