@@ -4,7 +4,7 @@ type: overview
 tags: [index, Thermodynamics]
 created: 2026-05-02
 updated: 2026-05-16
-sources: 1
+sources: 15
 ---
 
 # Research Wiki — Master Index
@@ -17,9 +17,32 @@ Update this file every time a page is added, renamed, or removed.
 
 ## Sources
 
+### Primary sources (original treatises)
+
 - [[planck-treatise-on-thermodynamics]] — Max Planck's 1897 treatise; full phenomenological development of classical thermodynamics from the two fundamental laws
 - [[carnot-reflections-motive-power-of-heat]] — Sadi Carnot's 1824 founding document of thermodynamics; proof that maximum heat-engine efficiency depends only on temperature, not working substance
 - [[gibbs-elementary-principles-statistical-mechanics]] — J. W. Gibbs's 1902 founding text of statistical mechanics; derives temperature, entropy, and free energy from Hamiltonian mechanics via the canonical ensemble
+- [[clausius-1865-main-equations]] — Rudolf Clausius's 1865 paper naming entropy; $dS = dQ/T$, the Clausius inequality, and the famous duality: energy constant, entropy seeks maximum
+
+### Axiomatic and foundational studies
+
+- [[lieb-yngvason-fresh-look-entropy]] — Lieb & Yngvason (2000, arXiv); axiomatic derivation of entropy from adiabatic accessibility; entropy as unique additive order-function on states
+- [[lieb-yngvason-mathematics-second-law]] — Lieb & Yngvason, in *Visions in Mathematics* (GAFA 2000); rigorous mathematical treatment of the Second Law from six axioms; comparison hypothesis derived, not postulated
+- [[pogliani-caratheodory-axiomatic-thermodynamics]] — Pogliani & Berberan-Santos (2000); Carathéodory's biography, his two axioms, Pfaffian analysis, and reception from Born (1921) to Buchdahl
+- [[redlich-fundamental-thermodynamics-since-caratheodory]] — Redlich (1968, Rev. Mod. Phys.); critical review of Carathéodory's axiomatic approach and subsequent improvements (Buchdahl three-class partition, zeroth law critique)
+
+### History and philosophy of thermodynamics
+
+- [[brush-kinetic-theory-randomness-irreversibility]] — Brush (1974); Part VIII of his history of kinetic theory — Boltzmann's H-theorem, Loschmidt and Zermelo paradoxes, emergence of ergodic theory and irreversibility
+- [[daub-probability-thermodynamics-reduction]] — Daub (1969, Isis); how probability entered the reduction of the Second Law — Boltzmann's 1871 paper, Loschmidt paradox, entropy of diffusion via semipermeable membranes
+- [[deltete-planck-ostwald-second-law]] — Deltete (2012, HOPOS); Planck vs. Ostwald debate (1891–1898); irreversibility as the essence of the Second Law vs. energeticism
+- [[klein-maxwell-demon-second-law]] — Klein (1970, American Scientist); Maxwell's statistical conception of the Second Law and his demon thought experiment; Boltzmann–Clausius priority dispute
+- [[rudnyi-clausius-inequality-history]] — Rudnyi (2025, preprint); history and philosophy of the Clausius inequality; local vs. global equilibrium; arrow of time in continuum mechanics
+- [[burich-henry-adams-second-law]] — Burich (1987, J. History of Ideas); Henry Adams's application of the Second Law to the theory of history and civilizational decline
+
+### Textbooks and pedagogical sources
+
+- [[devriendt-basics-of-thermodynamics]] — Devriendt (lecture notes); concise pedagogical introduction to all four laws, entropy, thermodynamic potentials, and statistical foundations
 
 ---
 

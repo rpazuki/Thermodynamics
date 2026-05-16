@@ -65,3 +65,23 @@ Deferred: none
 - New sections created: Part I Classical Thermodynamics (§1–§4), Part II Statistical Mechanics (§5–§7), Part III Introductory Resources, Part IV Sources, Part V Analyses
 - Organised by scientific theme per wiki-toc skill (not by folder structure)
 - Removed stale entries: none
+
+---
+
+## [2026-05-16] ingest | Batch ingest — 12 papers from raw/Thermodynamics/Papers/
+
+Source pages created (all in wiki/sources/):
+- clausius-1865-main-equations.md — Clausius 1865, naming of entropy, $dS=dQ/T$, Clausius inequality
+- lieb-yngvason-fresh-look-entropy.md — Lieb & Yngvason 2000 arXiv, axiomatic entropy via adiabatic accessibility
+- lieb-yngvason-mathematics-second-law.md — Lieb & Yngvason, GAFA 2000 book chapter, full axiomatic treatment with comparison hypothesis derived
+- pogliani-caratheodory-axiomatic-thermodynamics.md — Pogliani & Berberan-Santos 2000, Carathéodory biography, Pfaffian/inaccessibility route to entropy
+- redlich-fundamental-thermodynamics-since-caratheodory.md — Redlich 1968 Rev. Mod. Phys., critical review of axiomatic thermodynamics since Carathéodory
+- brush-kinetic-theory-randomness-irreversibility.md — Brush 1974, history of kinetic theory Part VIII: H-theorem, Loschmidt and Zermelo paradoxes
+- daub-probability-thermodynamics-reduction.md — Daub 1969 Isis, probabilistic reduction of the Second Law via Boltzmann, Loschmidt, semipermeable membranes
+- deltete-planck-ostwald-second-law.md — Deltete 2012 HOPOS, Planck–Ostwald controversy over irreversibility vs. energeticism
+- klein-maxwell-demon-second-law.md — Klein 1970, Maxwell's statistical Second Law and the demon thought experiment
+- rudnyi-clausius-inequality-history.md — Rudnyi 2025 preprint, philosophy of the Clausius inequality, local equilibrium, arrow of time
+- burich-henry-adams-second-law.md — Burich 1987, Henry Adams and the Second Law applied to history
+- devriendt-basics-of-thermodynamics.md — Devriendt, pedagogical lecture notes covering all four laws, entropy, potentials, statistical mechanics
+
+Index updated: wiki/index.md — Sources section restructured into four subsections (primary sources, axiomatic/foundational, history/philosophy, textbooks); 12 new entries added.

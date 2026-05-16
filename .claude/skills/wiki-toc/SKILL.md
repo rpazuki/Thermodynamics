@@ -34,7 +34,6 @@ Compare `wiki/index.md` against the current `index.md`:
 
 For each new page, decide which section it belongs to based on **scientific meaning**, not folder:
 
-
 **New research domains** (pages that don't fit any existing section): create a new Part or section and note it in the log.
 
 ### 4 · Write the updated `index.md`
@@ -48,6 +47,35 @@ For each new page, decide which section it belongs to based on **scientific mean
 - If a new section is needed, add it with a brief italicised scope note
 - Update the `updated:` frontmatter field to today's date
 - Update the "Last updated" footer line
+
+#### Required frontmatter for `index.md`
+
+The root `index.md` **must** include `layout: default` in its frontmatter:
+
+```yaml
+---
+title: "..."
+layout: default
+type: overview
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+---
+```
+
+**Why this is mandatory:** The site uses the minima Jekyll theme. Without `layout: default`, minima falls back to its `page.html` layout, which automatically injects an `<h1>` from the frontmatter `title` before the page body. Since `index.md` already opens with its own `# heading`, omitting `layout: default` produces a duplicate heading at the top of the published page.
+
+#### GitHub Pages navigation (`_config.yml`)
+
+`_config.yml` must contain:
+
+```yaml
+header_pages:
+  - index.md
+```
+
+**Why this is mandatory:** Without `header_pages`, minima auto-discovers every Jekyll page in the repository and lists them all in the site navigation bar. With 50+ wiki pages this floods the header and makes the site unusable. `header_pages: [index.md]` restricts the nav to just the homepage link.
+
+If `_config.yml` does not already have this key, add it. Do not remove or change any other key.
 
 ### 5 · Update `wiki/log.md`
 
