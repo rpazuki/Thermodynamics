@@ -5,9 +5,21 @@ description: "A personal research wiki covering the founding texts of classical 
 
 markdown: kramdown
 kramdown:
-  math_engine: mathjax
   input: GFM
   hard_wrap: false
+  # No math_engine: kramdown's mathjax engine emits <script type="math/tex">
+  # which MathJax 3 does not process. MathJax 3 is loaded in _includes/head.html
+  # and handles $...$ and \[...\] directly in the rendered HTML.
+
+# Apply the 'default' layout to all pages under wiki/ so that minima's
+# page.html layout does not inject a duplicate <h1> from the frontmatter title.
+# (All wiki pages already open with their own # heading in the body.)
+defaults:
+  - scope:
+      path: "wiki"
+      type: "pages"
+    values:
+      layout: "default"
 
 # Exclude non-site files from Jekyll build
 exclude:
