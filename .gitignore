@@ -11,3 +11,7 @@ MCPs/wos-mcp/browser-session/**
 
 # macOS metadata
 **/.DS_Store
+
+
+.obsidian/
+raw/
