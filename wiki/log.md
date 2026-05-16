@@ -59,6 +59,9 @@ Deferred: none
 
 ---
 
-## [2026-05-16] update | table of contents generated
+## [2026-05-16] toc | Table of contents regenerated
 
-Created root `index.md` — human-browsable table of contents organised by source, with relative links to all source pages, chapter summaries, and analyses. Covers all three ingested works (Carnot, Planck, Gibbs) across 41 intro pages.
+- Added 47 pages: all intro, source, and analysis pages for Carnot, Planck, and Gibbs
+- New sections created: Part I Classical Thermodynamics (§1–§4), Part II Statistical Mechanics (§5–§7), Part III Introductory Resources, Part IV Sources, Part V Analyses
+- Organised by scientific theme per wiki-toc skill (not by folder structure)
+- Removed stale entries: none
