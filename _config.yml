@@ -1,0 +1,21 @@
+theme: minima
+
+title: "Thermodynamics Research Wiki"
+description: "A personal research wiki covering the founding texts of classical and statistical thermodynamics."
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
+  hard_wrap: false
+
+# Exclude non-site files from Jekyll build
+exclude:
+  - raw/
+  - .claude/
+  - MCPs/
+  - AGENTS.md
+  - SETUP.md
+  - README.md
+  - "*.tex"
+  - "*.pdf"
